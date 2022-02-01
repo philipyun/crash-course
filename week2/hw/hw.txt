@@ -1,0 +1,24 @@
+1. create a function that takes in a person's name as input, and outputs the length of the name
+
+2. create a function that takes in a person's name, and prints each character of the name, one line at a time
+
+ex: 
+  in: Philip
+  out:
+     P
+     h
+     i
+     l
+     i
+     p
+
+3. create a function that takes in a day as input and outputs the following text
+  sunday - chick fil a is closed today
+  monday - i haaaate mondays
+  tuesday - at least its not monday
+  wednesday - at least its not monday
+  thursday - its almost friday
+  friday - tgif
+  saturday - im hungover
+
+4. given the array [1...20], create the four different for...loops to print only even numbers 
