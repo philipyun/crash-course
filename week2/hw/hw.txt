@@ -12,6 +12,8 @@ ex:
      i
      p
 
+hint: either use a traditional style for loop, or use name.split('')
+
 3. create a function that takes in a day as input and outputs the following text
   sunday - chick fil a is closed today
   monday - i haaaate mondays
